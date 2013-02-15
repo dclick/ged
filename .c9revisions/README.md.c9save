@@ -2,3 +2,4 @@
 {"contributors":[],"silentsave":false,"ts":1360942040503,"patch":[[{"diffs":[[0,"\n## "],[-1,"Projeto"],[1,"Iniciativa"],[0,"s\n\n*"]],"start1":97,"start2":97,"length1":15,"length2":18}]],"length":364,"saved":false}
 {"ts":1360942182569,"patch":[[{"diffs":[[0,"ciativas"],[1," "],[0,"\n\n* [Ang"]],"start1":104,"start2":104,"length1":16,"length2":17}]],"length":365,"saved":false}
 {"ts":1360943267957,"patch":[[{"diffs":[[0,"ciativas"],[-1," "],[0,"\n\n* [Ang"]],"start1":104,"start2":104,"length1":17,"length2":16}]],"length":364,"saved":false}
+{"ts":1360943635524,"patch":[[{"diffs":[[0,"as\n\n"],[-1,"*"],[1,"->"],[0," [An"]],"start1":110,"start2":110,"length1":9,"length2":10}]],"length":365,"saved":false}
